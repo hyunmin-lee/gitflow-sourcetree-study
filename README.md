@@ -1,2 +1,2 @@
-# gitflow-sourcetree_study
-gitflow-sourcetree_study
+# gitflow-sourcetree-study
+gitflow-sourcetree-study
